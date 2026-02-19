@@ -30,3 +30,4 @@
 
 2026
 
+[Basics of JavaScript Web Apps_Certificate_02192026.pdf](https://github.com/user-attachments/files/25429261/Basics.of.JavaScript.Web.Apps_Certificate_02192026.pdf)
